@@ -17,7 +17,3 @@ This project is a machine learning-based system designed to predict the prices o
 - Modular code for scalability and reproducibility.
 - Ready for **web app integration** for real-time predictions (e.g., via Streamlit or Flask).
 
----
-
-## 📁 Project Structure
-
