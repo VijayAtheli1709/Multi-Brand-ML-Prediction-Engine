@@ -17,7 +17,7 @@ This project is a machine learning-based system designed to predict the prices o
 - Modular code for scalability and reproducibility.
 - Ready for **web app integration** for real-time predictions (e.g., via Streamlit or Flask).
 
-##Sneak Peak Into the Application:
+## Sneak Peak Into the Application:
 Predicting Audi Car Price:
 ![image](https://github.com/user-attachments/assets/3c5c2679-01aa-4946-bdd3-be6871ebc3f8)
 ![image](https://github.com/user-attachments/assets/94637d59-5321-49c3-9dfe-ecd61234fad6)
