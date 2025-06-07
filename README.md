@@ -47,10 +47,11 @@ This project demonstrates sophisticated ML engineering through **empirical algor
 | **Hyundai** | Linear Regression | Simpler, more predictable linear pricing relationships |
 
 ### Key Insights from Analysis:
+#### EDA:
 ![image](https://github.com/user-attachments/assets/b7d9eb40-584d-44a8-8594-5f22b891dc0c)
 ![image](https://github.com/user-attachments/assets/578b2865-76a4-4b75-94a5-fb9c3e7091d6)
-![image](https://github.com/user-attachments/assets/27ea03ca-c564-44bc-93d6-30aad42fa30a)
 
+#### Predictive Model Analysis:
 - **Random Forest** (22%): Best for brands with complex, diverse datasets
 - **Decision Tree** (67%): Optimal for brands with clear hierarchical pricing
 - **Linear Regression** (11%): Effective for brands with straightforward pricing structures
