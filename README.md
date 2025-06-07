@@ -76,7 +76,9 @@ Data Input → Preprocessing → Brand-Specific Model → Price Prediction
 
 ## 📊 Dataset & Features
 
+
 ### Input Features:
+
 | Feature | Type | Description |
 |---------|------|-------------|
 | **Brand** | Categorical | Car manufacturer (Audi, BMW, Ford, etc.) |
