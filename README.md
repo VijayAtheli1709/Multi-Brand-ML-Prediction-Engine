@@ -1,5 +1,3 @@
-# Multi-Brand ML Prediction Engine
-
 **An intelligent machine learning application that predicts used car prices with high accuracy using brand-specific ML models.**
 
 This project is designed to predict the prices of used cars across **nine major brands**: VW, Hyundai, Skoda, Ford, BMW, Mercedes, Audi, Toyota, and Vauxhall. It includes data merging, cleaning, feature engineering, model training, evaluation, and visualization.
@@ -108,8 +106,8 @@ Data Input → Preprocessing → Brand-Specific Model → Price Prediction
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/used-car-price-predictor.git
-cd used-car-price-predictor
+git clone https://github.com/yourusername/Multi-Brand-ML-Prediction-Engine.git
+cd Multi-Brand-ML-Prediction-Engine
 
 # Install dependencies
 pip install -r requirements.txt
