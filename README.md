@@ -106,7 +106,7 @@ Data Input → Preprocessing → Brand-Specific Model → Price Prediction
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Multi-Brand-ML-Prediction-Engine.git
+git clone https://github.com/VijayAtheli1709/Multi-Brand-ML-Prediction-Engine.git
 cd Multi-Brand-ML-Prediction-Engine
 
 # Install dependencies
