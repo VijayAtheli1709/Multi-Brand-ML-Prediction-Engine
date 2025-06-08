@@ -4,9 +4,6 @@
 
 This project is designed to predict the prices of used cars across **nine major brands**: VW, Hyundai, Skoda, Ford, BMW, Mercedes, Audi, Toyota, and Vauxhall. It includes data merging, cleaning, feature engineering, model training, evaluation, and visualization.
 
-## Application Preview
-
-Demo:
 ## Application Demo
 
 Watch the multi-brand car price prediction engine in action:
