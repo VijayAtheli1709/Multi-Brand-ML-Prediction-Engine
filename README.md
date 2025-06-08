@@ -17,16 +17,6 @@ Watch the multi-brand car price prediction engine in action:
 
 *The demo showcases the complete workflow: selecting car brand, entering vehicle details, and getting accurate price predictions using our trained machine learning models.*
 
-### Predicting Audi Car Price:
-![Audi Price Prediction Interface](https://github.com/user-attachments/assets/3c5c2679-01aa-4946-bdd3-be6871ebc3f8)
-![Audi Prediction Results](https://github.com/user-attachments/assets/94637d59-5321-49c3-9dfe-ecd61234fad6)
-
-### Predicting Mercedes Car Price:
-![Mercedes Price Prediction Interface](https://github.com/user-attachments/assets/6b0a43db-5238-44da-b7f0-42c8ce3e4eb2)
-![Mercedes Prediction Results](https://github.com/user-attachments/assets/070b05db-13f0-429f-98d4-5c429e7dc78e)
-
----
-
 ## Project Overview
 
 This application leverages machine learning to provide accurate price predictions for used cars across 9 major automotive brands. By analyzing key vehicle characteristics such as mileage, age, fuel type, and transmission, the system delivers reliable price estimates to help both buyers and sellers make informed decisions.
