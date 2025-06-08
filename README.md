@@ -1,5 +1,3 @@
-# Multi-Brand Used Car Price Predictor
-
 **An intelligent machine learning application that predicts used car prices with high accuracy using brand-specific ML models.**
 
 This project is designed to predict the prices of used cars across **nine major brands**: VW, Hyundai, Skoda, Ford, BMW, Mercedes, Audi, Toyota, and Vauxhall. It includes data merging, cleaning, feature engineering, model training, evaluation, and visualization.
