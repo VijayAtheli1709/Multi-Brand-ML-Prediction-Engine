@@ -6,6 +6,20 @@ This project is designed to predict the prices of used cars across **nine major 
 
 ## Application Preview
 
+Demo:
+## Application Demo
+
+Watch the multi-brand car price prediction engine in action:
+
+<video width="800" controls>
+  <source src="Application Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+*The demo showcases the complete workflow: selecting car brand, entering vehicle details, and getting accurate price predictions using our trained machine learning models.*
+
 ### Predicting Audi Car Price:
 ![Audi Price Prediction Interface](https://github.com/user-attachments/assets/3c5c2679-01aa-4946-bdd3-be6871ebc3f8)
 ![Audi Prediction Results](https://github.com/user-attachments/assets/94637d59-5321-49c3-9dfe-ecd61234fad6)
@@ -105,8 +119,6 @@ Data Input → Preprocessing → Brand-Specific Model → Price Prediction
 
 ---
 
-## Installation & Setup
-
 ### Prerequisites
 - Python 3.8+
 - pip package manager
@@ -139,22 +151,31 @@ openpyxl==3.1.2
 ---
 
 ## Project Structure
-
 ```
-used-car-price-predictor/
-├── Application.py          # Main Streamlit application
-├── train_models.py         # Model training pipeline
-├── Final_dataset.xlsx      # Training dataset
-├── requirements.txt        # Python dependencies
-├── models/                 # Trained model files
-│   ├── Mercedes_pipeline.pkl
-│   ├── BMW_pipeline.pkl
-│   ├── Audi_pipeline.pkl
-│   └── ... (other brands)
-└── README.md              # Project documentation
+Multi-Brand-ML-Prediction-Engine/
+├── Data_Mergerfile_with_Data_Cleaning/    # Data preprocessing and cleaning
+│   ├── Data_MergerFile with Data_Cleaning.py  # Main data processing script
+│   ├── audi.csv                          # Audi vehicle data
+│   ├── bmw.csv                           # BMW vehicle data
+│   ├── ford.csv                          # Ford vehicle data
+│   ├── hyundai.csv                       # Hyundai vehicle data
+│   ├── mercedes.csv                      # Mercedes vehicle data
+│   ├── skoda.csv                         # Skoda vehicle data
+│   ├── toyota.csv                        # Toyota vehicle data
+│   ├── vauxhall.csv                      # Vauxhall vehicle data
+│   ├── vw.csv                            # Volkswagen vehicle data
+│   └── merged_cars_data.xlsx             # Combined dataset
+├── StreamLit_Application_WebPage/         # Streamlit web application
+│   ├── ApplicationFile/                   # Application components
+│   │   ├── Application.py                 # Main Streamlit app
+│   │   └── train_models.py                # Model training script
+│   └── models/                           # Trained model files
+│       └── files                         # Model pickle files
+├── Final_dataset.xlsx                     # Final training dataset
+├── Predictive Models Code File.py         # Model training and prediction pipeline
+├── Application Demo.mp4
+└── README.md                             # Project documentation
 ```
-
----
 
 ## Use Cases
 
